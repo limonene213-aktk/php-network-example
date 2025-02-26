@@ -168,4 +168,4 @@ echo $result; // サーバーの応答を表示
 
 
 ## About this repository
-©広島県障害者職業能力開発校 情報科 伊藤あきら
+©伊藤あきら
